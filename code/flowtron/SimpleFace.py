@@ -5,7 +5,7 @@ import numpy as np
 import time
 import os
 
-img = cv2.imread("/content/drive/MyDrive/Project/face-without-mouth.jpg")
+img = cv2.imread("face-without-mouth.jpg")
 
 def audio2mouth(audio_rate, audio_data, frame_rate = 30, audio_file = "my_audio.mp4", video_file = "my_video.mp4", op_file="output.mp4"):
   
