@@ -1,0 +1,6 @@
+transformers==3.0.2
+pytorch-crf
+seqeval
+sentencepiece
+sacremoses
+tokenizers==0.8.1.rc1
