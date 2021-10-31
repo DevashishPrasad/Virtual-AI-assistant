@@ -11,10 +11,10 @@ Follow How to run section to see this virtual assistant in action. It is super e
 <img src='assets/sys_arch.png'>
 
 ## Sample output
- 
-https://user-images.githubusercontent.com/37477321/139559197-7170118d-a3b1-4ac0-ad50-c83beed70a78.mp4
 
-For your every query, you will get such a video file rendered automatically by the program.
+A simple conversation with virtual assistant. Asking queries and getting answers.
+
+https://user-images.githubusercontent.com/37477321/139561844-3fd460b3-6946-4506-8162-2ad6586f97b9.mp4
 
 ## Queries
 This virtual assistant was made to help passengers book flights. It has it's own database that has Indian cities, flights and other related details. Following are some of the entities that are already present in the database. You can use these entities in your queries.
@@ -27,15 +27,15 @@ Classes: Business, Economy
 
 We will release the full structure of database soon. And, to test the bot you can ask it the following queries -
 
-Type 1 - Hello show me flights from <city> to <city>.
+Type 1 - Hello show me flights from \<city\> to \<city\>.
 
-Type 2 - Can you give me minimum fare for flights from <city> to <city> in the <class> class
+Type 2 - Can you give me minimum fare for flights from \<city\> to \<city\> in the \<class\> class
 
-Type 3 - Hi can you give me <flight company> flights from <city> to <city>
+Type 3 - Hi can you give me \<flight company\> flights from \<city\> to \<city\>
 
-Type 4 - Show me details for flight with id <flight id>
+Type 4 - Show me details for flight with id \<flight id\>
 
-Type 5 - Hey how many seats are available for flights from <city> to <city>
+Type 5 - Hey how many seats are available for flights from \<city\> to \<city\>
 
 Currently the bot is trained only on these 5 types of queries and its all possible variations. Use natural language freely to modify your queries. The virtual assistant will help you as long as your intent is within these 5 types.
 
