@@ -17,13 +17,13 @@ A simple conversation with virtual assistant. Asking queries and getting answers
 https://user-images.githubusercontent.com/37477321/139561844-3fd460b3-6946-4506-8162-2ad6586f97b9.mp4
 
 ## Queries
-This virtual assistant was made to help passengers book flights. It has it's own database that has Indian cities, flights and other related details. We use sqlite database maintained in a .db file (<a href='https://github.com/DevashishPrasad/Virtual-AI-assistant/blob/main/code/closed_domain/atis.db'>here</a>) Following are some of the entities that are already present in the database. You can use these entities in your queries.
+This virtual assistant was made to help passengers book flights. It has it's own database that has Indian cities, flights and other related details. We use sqlite database maintained in a .db file (<a href='https://github.com/DevashishPrasad/Virtual-AI-assistant/blob/main/code/closed_domain/atis.db'>here</a>). Following are some of the entities that are already present in the database. You can use these entities in your queries.
 
-Database - 
-Cities : Pune, Mumbai, Nagpur, Chennai
-Flight IDs: 1, 2, 3, 4, 5, 6, 9, 10, 11
-Flight companies: Air India, Go Air, King Fisher, Indigo
-Classes: Business, Economy
+Database - <br>
+Cities : Pune, Mumbai, Nagpur, Chennai <br>
+Flight IDs: 1, 2, 3, 4, 5, 6, 9, 10, 11 <br>
+Flight companies: Air India, Go Air, King Fisher, Indigo <br>
+Classes: Business, Economy <br>
 
 We will release the full structure of database soon. And, to test the bot you can ask it the following queries -
 
