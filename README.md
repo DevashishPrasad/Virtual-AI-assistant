@@ -6,6 +6,12 @@ The closed domain chatbot is currently trained on the atis_flight dataset and he
 
 Follow How to run section to see this virtual assistant in action. It is super easy to run. The code is fully tested and works perfectly in google colab.
 
+### Main Libraries
+
+- PyTorch
+- SpeechRecognition
+- OpenCV
+- Sqlite3
 
 # System Architecture
 <img src='assets/sys_arch.png'>
